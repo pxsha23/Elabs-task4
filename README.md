@@ -1,10 +1,9 @@
 
+![Screenshot (148)](https://github.com/user-attachments/assets/85dd419e-41ba-451b-ba81-cfbf10275ea3)       ![Screenshot (149)](https://github.com/user-attachments/assets/b557d889-ee24-4c92-a909-14a05e0dc0d9)
+
 ![Screenshot (152)](https://github.com/user-attachments/assets/95b01880-7b49-46c3-9faa-fa0e5494ed96)
 
 ![Screenshot (153)](https://github.com/user-attachments/assets/59c6e758-4da1-499b-ad8f-fdded2945173)
-
-![Screenshot (148)](https://github.com/user-attachments/assets/85dd419e-41ba-451b-ba81-cfbf10275ea3)       ![Screenshot (149)](https://github.com/user-attachments/assets/b557d889-ee24-4c92-a909-14a05e0dc0d9)
-
 
 🖤 Saint Laurent-Inspired Fashion Website
 Responsive Landing Page | HTML, CSS, Flexbox, Media Queries
